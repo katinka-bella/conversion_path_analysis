@@ -1,3 +1,8 @@
-.venv
+# cache
+__pycache__
+*checkpoint*
 .DS_Store
-.ipynb_checkpoints
+
+# virtual env 
+venv
+.venv
