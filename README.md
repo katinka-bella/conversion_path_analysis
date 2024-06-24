@@ -1,7 +1,5 @@
-# marketing_analysis
-
 ## Conversion Path Analysis 
-### Overview
+### Motivation
 This project focuses on performing conversion path analysis using a series of Jupyter notebooks. The goal is to understand the journey of users through different stages of a conversion funnel, identifying key drop-off points and optimizing the conversion process.
 
 ### Project Structure
