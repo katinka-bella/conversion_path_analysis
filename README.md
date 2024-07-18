@@ -3,7 +3,7 @@
 This project focuses on performing conversion path analysis using a series of Jupyter notebooks. The goal is to understand the journey of users through different stages of a conversion funnel, identifying key drop-off points and optimizing the conversion process.
 
 ### Project Structure
-The project consists of three main Jupyter notebooks, located in "notebooks" folder, each responsible for a different stage of the analysis:
+The project consists of three main Jupyter Notebooks, located in "notebooks" folder, each responsible for a different stage of the analysis:
 
 #### 01_data_preparation.ipynb
 
