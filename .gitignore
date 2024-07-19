@@ -2,6 +2,7 @@
 __pycache__
 *checkpoint*
 .DS_Store
+env
 
 # virtual env 
 venv
