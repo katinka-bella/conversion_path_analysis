@@ -25,13 +25,46 @@ To run the notebooks, follow these steps:
 
 ```
 git clone https://github.com/katinka-bella/conversion_path_analysis.git
-cd conversion_path_analysis
 ``` 
 
 2. Set up the environment:
 
+#### Windows
 ```
-python -m venv env
-source env/bin/activate
+# install python package 
+pip install virtualenv
+
+# navigate to local repository
+cd conversion_path_analysis
+
+# create virtual environment
+virtualenv .venv
+
+# activate venv
+.\.venv\Scripts\activate
+
+# install Python packages 
 pip install -r requirements.txt
+```
+
+#### Mac
+```
+# navigate to local repository
+cd conversion_path_analysis 
+
+# create virtual environment
+python -m venv .venv
+
+# activate venv (mac)
+source .venv/bin/activate
+
+# install Python packages 
+pip install -r requirements.txt
+```
+
+3. Run Jupyter-Notebook / Jupyterlab
+
+```
+# run jupyter-notebook
+jupyter notebook
 ```
