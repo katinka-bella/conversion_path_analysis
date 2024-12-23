@@ -7,3 +7,6 @@ env
 # virtual env 
 venv
 .venv
+
+# cred files
+cred
