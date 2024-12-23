@@ -1,0 +1,6 @@
+- Enable the BigQuery API
+- python3 -m pip install google-api-python-client
+- python3 -m pip install google-cloud-bigquery
+- python3 -m pip install google-cloud
+
+- credentials = service_account.Credentials.from_service_account_file
